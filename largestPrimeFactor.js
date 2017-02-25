@@ -17,3 +17,4 @@ exports.largestPrimeFactor = function(n){
   return n;
 
 };
+console.log('largestPrimeFactor',exports.largestPrimeFactor(13915232));
